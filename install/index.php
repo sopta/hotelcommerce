@@ -24,7 +24,6 @@
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
-echo "install";
 require_once(dirname(__FILE__).DIRECTORY_SEPARATOR.'init.php');
 
 try {
